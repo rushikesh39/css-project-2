@@ -42,6 +42,7 @@ a{
     padding-bottom: 100px;
     /* justify-content: center; */
 }
+
 .item{
     width: 352px;
     height: 360px;
@@ -51,6 +52,9 @@ a{
     margin: 15px;
     padding: 15px;
     font-size: 18px;
+}
+.item a{
+color: #00A5EC;
 }
 .item:hover{
     box-shadow: 2px -2px 5px#C2C2C2;
